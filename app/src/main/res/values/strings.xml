@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Nojoto</string>
+    <string name="_1_mins_ago">1 mins ago</string>
+    <string name="jonny_depp">Jonny Depp</string>
+    <string name="selected_photo">Selected Photo</string>
+    <string name="upload_photo">Upload Photo</string>
+    <string name="love">Love</string>
+    <string name="comment">Comment</string>
+    <string name="share">Share</string>
+</resources>
